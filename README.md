@@ -1,0 +1,1 @@
+﻿E-kitap tadında ya da biraz uzun yazıları bu depoda yayınlıyorum.
