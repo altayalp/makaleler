@@ -472,9 +472,7 @@ echo filter_var($string, FILTER_UNSAFE_RAW, FILTER_FLAG_ENCODE_HIGH);
 
 ### <a name="a24"></a> Kendi Filtremizi Yazalım
 
-```php
 Daha önceden belirttiğimiz gibi FILTER_CALLBACK kullanarak kendi filtreleme işlemimizi yazabiliriz. Php'nin size sunduğu filtreleme seçenekleri çok çeşitli olsa da tam olarak sizin ihtiyacınıza cevap veren bir filtreleme türü olmayabilir. Örneğin bir küfür süzgeci yazmak ve girilen verileri bu süzgeçten geçirmek isteyebilirsiniz. Ya da arama motorlarıyla uyumlu seo url kullanmak isteyebilirsiniz. Örneklerimiz de tam böyle bir küfür süzgeci ve seo link fonksiyonu olacak.
-```
 
 ### <a name="a25"></a> Küfür Süzgeci
 
